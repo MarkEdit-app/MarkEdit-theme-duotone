@@ -2,6 +2,8 @@
 
 [DuoTone](https://simurai.com/projects/2016/01/01/duotone-themes) theme for [MarkEdit](https://github.com/MarkEdit-app/MarkEdit), built on top of [MarkEdit-theming](https://github.com/MarkEdit-app/MarkEdit-theming).
 
+<img width="344" title="DuoTone Light" src="https://github.com/user-attachments/assets/23fadf2a-701a-4b78-81c4-c182ecb231d5" /> <img width="344" title="DuoTone Dark" src="https://github.com/user-attachments/assets/b6a70da8-f8b7-4e96-801a-aecbfb82724b" />
+
 To customize colors, see [Customization](https://github.com/MarkEdit-app/MarkEdit-theming/wiki#customization) for details.
 
 ## Installation
